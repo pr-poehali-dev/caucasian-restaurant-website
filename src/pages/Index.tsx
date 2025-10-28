@@ -28,7 +28,7 @@ const menuItems: MenuItem[] = [
     name: 'Пельмени куриные',
     description: 'Домашние пельмени с нежной куриной начинкой по авторскому рецепту',
     price: 490,
-    image: 'https://cdn.poehali.dev/projects/5deb565d-ec38-4773-abdd-8dc7b8841e45/files/718749e2-b8bf-4374-bd15-796f0b67c211.jpg'
+    image: 'https://cdn.poehali.dev/projects/5deb565d-ec38-4773-abdd-8dc7b8841e45/files/93dbbcd5-1d3c-4846-8e9a-34e757df5a2a.jpg'
   },
   {
     id: 3,
