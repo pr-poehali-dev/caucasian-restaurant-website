@@ -20,29 +20,29 @@ const menuItems: MenuItem[] = [
     id: 1,
     name: 'Хинкали куриные',
     description: 'Сочные грузинские пельмени с куриным фаршем и ароматными специями',
-    price: 590,
+    price: 10,
     image: 'https://cdn.poehali.dev/projects/5deb565d-ec38-4773-abdd-8dc7b8841e45/files/718749e2-b8bf-4374-bd15-796f0b67c211.jpg'
   },
   {
     id: 2,
     name: 'Пельмени куриные',
     description: 'Домашние пельмени с нежной куриной начинкой по авторскому рецепту',
-    price: 490,
+    price: 10,
     image: 'https://cdn.poehali.dev/projects/5deb565d-ec38-4773-abdd-8dc7b8841e45/files/93dbbcd5-1d3c-4846-8e9a-34e757df5a2a.jpg'
   },
   {
     id: 3,
     name: 'Хачапури по-аджарски',
     description: 'Традиционная лодочка с сыром сулугуни, маслом и яичным желтком',
-    price: 690,
+    price: 10,
     image: 'https://cdn.poehali.dev/projects/5deb565d-ec38-4773-abdd-8dc7b8841e45/files/1aaa69bb-4303-4aff-9d42-a19d09bd4ef0.jpg'
   },
   {
     id: 4,
     name: 'Чебурек с мясом',
     description: 'Хрустящий чебурек с пышной начинкой из отборного мяса',
-    price: 390,
-    image: 'https://cdn.poehali.dev/projects/5deb565d-ec38-4773-abdd-8dc7b8841e45/files/718749e2-b8bf-4374-bd15-796f0b67c211.jpg'
+    price: 10,
+    image: 'https://cdn.poehali.dev/projects/5deb565d-ec38-4773-abdd-8dc7b8841e45/files/de498fce-0539-4226-ba43-3f3da6c2fd50.jpg'
   }
 ];
 
