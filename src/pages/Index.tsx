@@ -78,7 +78,7 @@ const Index = () => {
           </nav>
           <Button className="bg-primary hover:bg-primary/90 text-primary-foreground">
             <Icon name="Phone" size={18} className="mr-2" />
-            +7 (495) 123-45-67
+            +7 (910) 335-49-90
           </Button>
         </div>
       </header>
@@ -280,7 +280,7 @@ const Index = () => {
               <div className="space-y-3 text-primary-foreground/90">
                 <div className="flex items-center justify-center md:justify-start gap-2">
                   <Icon name="Phone" size={18} />
-                  <span>+7 (495) 123-45-67</span>
+                  <span>+7 (910) 335-49-90</span>
                 </div>
                 <div className="flex items-center justify-center md:justify-start gap-2">
                   <Icon name="Mail" size={18} />
