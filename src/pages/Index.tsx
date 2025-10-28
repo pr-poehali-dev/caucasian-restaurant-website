@@ -304,7 +304,7 @@ const Index = () => {
           </div>
           
           <div className="border-t border-primary-foreground/20 mt-12 pt-8 text-center text-primary-foreground/70">
-            <p>&copy; 2024 Ресторан Кавказ. Все права защищены</p>
+            <p>&copy; 2025 Ресторан Кавказ. Все права защищены</p>
           </div>
         </div>
       </footer>
